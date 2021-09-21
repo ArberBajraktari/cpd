@@ -19,6 +19,14 @@ namespace Homework
         {
             Result.Text =( int.Parse(Entry1.Text) + int.Parse(Entry2.Text)).ToString();
         }
+
+        void OnSliderValueChanged(object sender, ValueChangedEventArgs args)
+        {
+            double value = args.NewValue;
+            Result.Rotation = value;
+        }
+
+
     }
 }
 
