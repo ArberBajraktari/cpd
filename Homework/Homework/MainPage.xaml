@@ -26,6 +26,9 @@
             VerticalOptions="Center"
             />
 
+        <Slider Maximum="360"
+                ValueChanged="OnSliderValueChanged" />
+
     </StackLayout>
 
 </ContentPage>
