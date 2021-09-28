@@ -991,39 +991,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dell\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/arber/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\Homework\\Homework\\Homework.iOS\\Homework.iOS.csproj",
+      "projectUniqueName": "/Users/arber/Documents/School/cpd/Homework/Homework.iOS/Homework.iOS.csproj",
       "projectName": "Homework.iOS",
-      "projectPath": "C:\\Users\\Dell\\source\\repos\\Homework\\Homework\\Homework.iOS\\Homework.iOS.csproj",
-      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\source\\repos\\Homework\\Homework\\Homework.iOS\\obj\\",
+      "projectPath": "/Users/arber/Documents/School/cpd/Homework/Homework.iOS/Homework.iOS.csproj",
+      "packagesPath": "/Users/arber/.nuget/packages/",
+      "outputPath": "/Users/arber/Documents/School/cpd/Homework/Homework.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/arber/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Dell\\source\\repos\\Homework\\Homework\\Homework\\Homework.csproj": {
-              "projectPath": "C:\\Users\\Dell\\source\\repos\\Homework\\Homework\\Homework\\Homework.csproj"
+            "/Users/arber/Documents/School/cpd/Homework/Homework/Homework.csproj": {
+              "projectPath": "/Users/arber/Documents/School/cpd/Homework/Homework/Homework.csproj"
             }
           }
         }

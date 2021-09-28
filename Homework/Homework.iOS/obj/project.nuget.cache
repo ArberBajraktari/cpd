@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Ltp+m/nCP3l2zGtXlKcIrGGv95Z3RBbQALXuFb4LS2mKiqf3Tebau2kzl2DNQhDl+I9kEdaSNg57pbM5I7MRTg==",
+  "dgSpecHash": "1uQGCL1OiLq6jgTP73vsm95xwhmSXjPKRNn+knqaor/mJFI28oywIR2biSyIHuftXJW+UbJeD5JjwpcwcSnv3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\Homework\\Homework\\Homework.iOS\\Homework.iOS.csproj",
+  "projectFilePath": "/Users/arber/Documents/School/cpd/Homework/Homework.iOS/Homework.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Dell\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+    "/Users/arber/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/arber/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/arber/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
   "logs": []
 }
