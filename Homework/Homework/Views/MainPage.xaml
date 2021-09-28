@@ -2,32 +2,27 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Homework.MainPage">
+
     <StackLayout VerticalOptions="Center" HorizontalOptions="FillAndExpand">
         
-        <Entry
-            x:Name="Entry1"
-            HorizontalOptions="FillAndExpand"/>
-
-        <Entry 
-            x:Name="Entry2"
-            HorizontalOptions="FillAndExpand"/>
-        
         <Button
-            x:Name="AddButton"
-            Text="Calculate"
+            Text="Increment"
             HorizontalOptions="CenterAndExpand"
-            Clicked="AddButton_Clicked"
+            Command="{Binding IncreaseCount}"
             />
 
         <Label
-            x:Name="Result"
-            Text="Click Button to add the values"
+            Text="{Binding CountDisplay}"
             HorizontalOptions="CenterAndExpand"
             VerticalOptions="Center"
             />
 
-        <Slider Maximum="360"
-                ValueChanged="OnSliderValueChanged" />
+        <Button
+            Text="Forward"
+            HorizontalOptions="CenterAndExpand"
+            Command="{Binding ForwardButton}"
+            />
+
 
     </StackLayout>
 
