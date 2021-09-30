@@ -996,11 +996,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/arber/Documents/School/cpd/Homework/Homework.iOS/Homework.iOS.csproj",
+      "projectUniqueName": "/Users/arber/Documents/FH/cpd/Homework/Homework.iOS/Homework.iOS.csproj",
       "projectName": "Homework.iOS",
-      "projectPath": "/Users/arber/Documents/School/cpd/Homework/Homework.iOS/Homework.iOS.csproj",
+      "projectPath": "/Users/arber/Documents/FH/cpd/Homework/Homework.iOS/Homework.iOS.csproj",
       "packagesPath": "/Users/arber/.nuget/packages/",
-      "outputPath": "/Users/arber/Documents/School/cpd/Homework/Homework.iOS/obj/",
+      "outputPath": "/Users/arber/Documents/FH/cpd/Homework/Homework.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1015,8 +1015,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/arber/Documents/School/cpd/Homework/Homework/Homework.csproj": {
-              "projectPath": "/Users/arber/Documents/School/cpd/Homework/Homework/Homework.csproj"
+            "/Users/arber/Documents/FH/cpd/Homework/Homework/Homework.csproj": {
+              "projectPath": "/Users/arber/Documents/FH/cpd/Homework/Homework/Homework.csproj"
             }
           }
         }

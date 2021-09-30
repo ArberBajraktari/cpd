@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/arber/Documents/School/cpd/Homework/Homework.Android/Homework.Android.csproj": {}
+    "/Users/arber/Documents/FH/cpd/Homework/Homework.Android/Homework.Android.csproj": {}
   },
   "projects": {
-    "/Users/arber/Documents/School/cpd/Homework/Homework.Android/Homework.Android.csproj": {
+    "/Users/arber/Documents/FH/cpd/Homework/Homework.Android/Homework.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/arber/Documents/School/cpd/Homework/Homework.Android/Homework.Android.csproj",
+        "projectUniqueName": "/Users/arber/Documents/FH/cpd/Homework/Homework.Android/Homework.Android.csproj",
         "projectName": "Homework.Android",
-        "projectPath": "/Users/arber/Documents/School/cpd/Homework/Homework.Android/Homework.Android.csproj",
+        "projectPath": "/Users/arber/Documents/FH/cpd/Homework/Homework.Android/Homework.Android.csproj",
         "packagesPath": "/Users/arber/.nuget/packages/",
-        "outputPath": "/Users/arber/Documents/School/cpd/Homework/Homework.Android/obj/",
+        "outputPath": "/Users/arber/Documents/FH/cpd/Homework/Homework.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "/Users/arber/Documents/School/cpd/Homework/Homework/Homework.csproj": {
-                "projectPath": "/Users/arber/Documents/School/cpd/Homework/Homework/Homework.csproj"
+              "/Users/arber/Documents/FH/cpd/Homework/Homework/Homework.csproj": {
+                "projectPath": "/Users/arber/Documents/FH/cpd/Homework/Homework/Homework.csproj"
               }
             }
           }
@@ -48,14 +48,14 @@
         }
       }
     },
-    "/Users/arber/Documents/School/cpd/Homework/Homework/Homework.csproj": {
+    "/Users/arber/Documents/FH/cpd/Homework/Homework/Homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/arber/Documents/School/cpd/Homework/Homework/Homework.csproj",
+        "projectUniqueName": "/Users/arber/Documents/FH/cpd/Homework/Homework/Homework.csproj",
         "projectName": "Homework",
-        "projectPath": "/Users/arber/Documents/School/cpd/Homework/Homework/Homework.csproj",
+        "projectPath": "/Users/arber/Documents/FH/cpd/Homework/Homework/Homework.csproj",
         "packagesPath": "/Users/arber/.nuget/packages/",
-        "outputPath": "/Users/arber/Documents/School/cpd/Homework/Homework/obj/",
+        "outputPath": "/Users/arber/Documents/FH/cpd/Homework/Homework/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/arber/.config/NuGet/NuGet.Config"

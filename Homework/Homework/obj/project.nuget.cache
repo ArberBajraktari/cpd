@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eV/fzoRmvDyKEs71c628kIh/uTR01HqPJze0X6qPU1cIREBUj/rPb9Q37cxK7HxPfpuwjlxgTFORqdDGmEOibw==",
+  "dgSpecHash": "EcxrhPE/xUccq1DiRDFmsRWoy852p6XeNzsstS/cAPdSwjf77uKlfsjNLn5EBy9YhZh89u3xYsgdqX0PT2+sBw==",
   "success": true,
-  "projectFilePath": "/Users/arber/Documents/School/cpd/Homework/Homework/Homework.csproj",
+  "projectFilePath": "/Users/arber/Documents/FH/cpd/Homework/Homework/Homework.csproj",
   "expectedPackageFiles": [
     "/Users/arber/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/arber/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
